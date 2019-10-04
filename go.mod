@@ -1,4 +1,4 @@
-module github.com/h2ik/go-sqs-poller/v2
+module github.com/vaihtovirta/go-sqs-poller
 
 require (
 	github.com/aws/aws-sdk-go v1.6.18
